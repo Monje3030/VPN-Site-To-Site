@@ -38,6 +38,10 @@ Se definieron los parámetros de intercambio de llaves y autenticación:
 
 <img width="1147" height="703" alt="image" src="https://github.com/user-attachments/assets/cc68ac4b-5e1e-4c1a-a742-892e6fad7a89" />
 
+## Video demostrativo
+
+https://youtu.be/aVlomPpslnc
+
 ### Demostración de que el tráfico viaja de forma encapsulada. El paquete salta del Gateway local directamente al destino remoto a través de la interfaz de túnel, omitiendo el ruteo público del ISP.
 
 <img width="952" height="129" alt="image" src="https://github.com/user-attachments/assets/547a3f77-1d39-4dda-bf11-bfc1b539ab0e" />
