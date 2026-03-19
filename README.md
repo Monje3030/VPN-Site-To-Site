@@ -29,11 +29,9 @@ Se definieron los parámetros de intercambio de llaves y autenticación:
 - **DH Group:** 2  
 - **Keylife:** 28,800 sec  
 
-```bash
-# Comando para verificar en FortiGate:
-show vpn ipsec phase1-interface
+
 <img width="2324" height="287" alt="image" src="https://github.com/user-attachments/assets/dfe478ab-bc8f-4839-b8d5-9585c7421457" />
-```
+
 
 <img width="754" height="250" alt="image" src="https://github.com/user-attachments/assets/88503c3e-af13-426b-a7a5-2c3785654c52" />
 
