@@ -1,0 +1,12 @@
+conf t
+interface GigabitEthernet0/0
+ description Connect_to_BRANCH
+ ip address 10.33.1.2 255.255.255.252
+ no shutdown
+exit
+
+interface GigabitEthernet0/1
+ description Connect_to_HQ
+ ip address 10.33.2.2 255.255.255.252
+ no shutdown
+exit
